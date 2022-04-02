@@ -11,4 +11,4 @@
 </div><br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samueldavimt&layout=demo)](https://github.com/samueldavimt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samueldavimt&layout=compact)](https://github.com/samueldavimt)
