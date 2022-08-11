@@ -1,5 +1,5 @@
 
-![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=samueldavimt&show_icons=true&theme=github_dark&count_private=true)
+![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=samueldmonteiro&show_icons=true&theme=github_dark&count_private=true)
 
 ##  Tecnologias
 
@@ -16,4 +16,4 @@
 
 <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samueldavimt&hide=html,handlebars&layout=compact&theme=github_dark)](https://github.com/samueldavimt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samueldmonteiro&hide=html,handlebars&layout=compact&theme=github_dark)](https://github.com/samueldavimt)
