@@ -20,6 +20,3 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 </div>
-
-###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samueldmonteiro&hide=html,handlebars&layout=compact&theme=github_dark)](https://github.com/samueldavimt)
