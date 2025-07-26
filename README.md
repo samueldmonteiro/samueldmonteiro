@@ -24,8 +24,13 @@ Desenvolvedor full-stack com expertise em construção de aplicações web moder
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap" />
 </div>
 
-## 🛠️ Ferramentas Adicionais
-<div style="display: inline_block">
-  <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git" />
-  <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" title="GitHub" />
+### Eu estou estudando... 🧩
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-0000ff?style=for-the-badge&logo=typescript)
+
+### GitHub Stats ⚡
+<div>
+<a href="https://github.com/murillous">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldmonteiro&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samueldmonteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
