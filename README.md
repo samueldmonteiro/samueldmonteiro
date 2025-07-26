@@ -30,7 +30,6 @@ Desenvolvedor full-stack com expertise em construção de aplicações web moder
 
 ### GitHub Stats ⚡
 <div>
-<a href="https://github.com/samueldmonteiro">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldmonteiro&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samueldmonteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
