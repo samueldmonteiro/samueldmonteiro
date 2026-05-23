@@ -58,7 +58,7 @@ Um pouco dos bastidores do meu código:
 Sempre aberto para trocar experiências, colaborar em ideias e participar de projetos desafiadores.
 
 <p align="left">
-  <a href="kedin.com/in/samuel-m-4a4432250/" target="_blank">
+  <a href="https://www.linkedin.com/in/samuel-m-4a4432250/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:samuel.dvmonteiro@gmail.com">
